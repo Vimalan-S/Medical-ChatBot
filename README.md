@@ -1,4 +1,4 @@
-# Medical-ChatBot
+# Next-Gen Medical Q&A: A Document-Driven Chatbot Powered by LLAMA2
 
 # 1. Introduction
 The Intelligent Medical Chatbot project aims to create an advanced conversational agent that leverages document retrieval techniques to provide accurate and timely information to users. By extracting data from medical PDFs, splitting the text into manageable chunks, and utilizing state-of-the-art language models and vector stores, the chatbot can deliver intelligent responses to user queries.
